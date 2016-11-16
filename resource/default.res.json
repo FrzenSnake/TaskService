@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Dark_png,Exia_png,Table_jpg,HaveM_jpg,CompM_jpg,Table2_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Dark_png",
+			"type": "image",
+			"url": "assets/Dark.png"
+		},
+		{
+			"name": "Exia_png",
+			"type": "image",
+			"url": "assets/Exia.png"
+		},
+		{
+			"name": "Table_jpg",
+			"type": "image",
+			"url": "assets/Table.jpg"
+		},
+		{
+			"name": "HaveM_jpg",
+			"type": "image",
+			"url": "assets/HaveM.jpg"
+		},
+		{
+			"name": "CompM_jpg",
+			"type": "image",
+			"url": "assets/CompM.jpg"
+		},
+		{
+			"name": "Table2_jpg",
+			"type": "image",
+			"url": "assets/Table2.jpg"
+		}
+	]
+}
